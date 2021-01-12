@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="110228" started-at="2021-01-10T12:44:41 IST" finished-at="2021-01-10T12:46:31 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="110228" started-at="2021-01-10T12:44:41 IST" finished-at="2021-01-10T12:46:31 IST">
+      <class name="com.actitime.testscripts.CustomerModule">
+        <test-method status="PASS" signature="OpenBrowser()[pri:0, instance:com.actitime.testscripts.CustomerModule@1f554b06]" name="OpenBrowser" is-config="true" duration-ms="6847" started-at="2021-01-10T12:44:41 IST" finished-at="2021-01-10T12:44:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.actitime.testscripts.CustomerModule@1f554b06]" name="login" is-config="true" duration-ms="85876" started-at="2021-01-10T12:44:47 IST" finished-at="2021-01-10T12:46:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="testCreateCustomer()[pri:0, instance:com.actitime.testscripts.CustomerModule@1f554b06]" name="testCreateCustomer" duration-ms="13185" started-at="2021-01-10T12:46:13 IST" finished-at="2021-01-10T12:46:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateCustomer -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:com.actitime.testscripts.CustomerModule@1f554b06]" name="logout" is-config="true" duration-ms="2" started-at="2021-01-10T12:46:26 IST" finished-at="2021-01-10T12:46:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.actitime.testscripts.CustomerModule@1f554b06]" name="closeBrowser" is-config="true" duration-ms="4245" started-at="2021-01-10T12:46:26 IST" finished-at="2021-01-10T12:46:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.actitime.testscripts.CustomerModule -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
